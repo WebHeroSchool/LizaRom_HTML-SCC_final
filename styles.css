@@ -1,0 +1,39 @@
+.header__title {
+  font: 800 45px/55px 'Gilroy', regular;
+}
+
+.subtitle {
+  font: 800 30px/37px 'Gilroy', regular;
+}
+
+.text {
+  font: 300 20px/23px 'Gilroy', regular;
+}
+
+.header__button, .proposal__button {
+  font: 900 20px/24px 'Montserrat', sans-serif;
+}
+
+.title {
+  font: 800 40px/49px 'Gilroy', regular;
+}
+
+.block-title {
+  font: 800 30px/37px 'Gilroy', regular;
+}
+
+.block-text {
+  font: 800 20px/25px 'Gilroy', regular;
+}
+
+.main__text {
+  font: 300 30px/35px 'Gilroy', regular;
+}
+
+.input-name, .input-email {
+  font: 300 20px/23px 'Gilroy', regular;
+}
+
+.sign {
+  font: 400 15px/18px 'Roboto', sans-serif;
+}
